@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="braider martinez">
+
+    <meta name="keywords" content="sudafrica, egipto, marruecos, senegal, el rio nilo, rio congo">
+
+    <meta name="description" content="esta pagina nos muestra el continente africano">
+
+    <title>Africa</title>
+</head>
+<body bgcolor="lime">
+    <font face="cooper black" size="30" color="forest">
+
+        <marquee scrollamount="15" behavior="alternate" direction="right">
+            Este es Africa...
+        </marquee>
+    </font>
+
+    <center>
+        <img src="Africa/africa-continente-mapa-ilustracion-vectorial-sobre-fondo-blanco-r5g7mn.jpg" height="300" width="300">
+        <img src="Africa/Giraffes-Sunset-Golden-Grassland.jpg" height="300" width="300">
+        <img src="Africa/images.jfif" height="300" width="300">
+    </center>
+    <!--parrafo 1-->
+    <!--primer parrafo de color Azul y tipo de letra calibri--><font color="blue" face="calibri"><p> <!--esta es la palabra subrayada--><u>África es el tercer continente más extenso</u>, tras Asia y América. Está situado entre los océanos Atlántico, al oeste, e Índico, al este. El mar Mediterráneo lo separa al norte del continente europeo; el punto en el que los dos continentes se hallan más cercanos es el estrecho de Gibraltar de 14.4 km de ancho, El Imperio Kanem-Bornu existió en África entre el siglo xiii y la década de 1840. En su momento de mayor esplendor abarcó el área de lo que actualmente es el sur de Libia, Chad, noreste de Nigeria, este de Níger y norte de Camerún, Al final de la Segunda Guerra Mundial los aliados no logran ponerse de acuerdo sobre el futuro de la antigua colonia italiana de Libia. En ese momento era un territorio más de cinco veces mayor que la propia Italia. Sin embargo, la población no sobrepasaba el millón de habitantes, por lo que representaba un destino apropiado para la población desplazada de Italia por la guerra</p></font>
+
+    <!--parrafo 2-->
+    <!--segundo parrafo sera color naranja y con tipo de letra Comic Sans Ms--><font color="orange" face="Comic Sans Ms"><p>que empezó a buscar lugares a donde emigrar. Los recelos entre Occidente y la Unión de Repúblicas Socialistas Soviéticas hacen que finalmente la Organización de las Naciones Unidas decida dar la independencia al país dejándolo en manos del rey Idris. Aunque ya había cuatro países <!--esta es la palabra cursiva--> <i>independientes</i> en <!--esta resalta la letra de color celeste--> <mark style="background-color: cyan;">África</mark> (Liberia en 1847, Sudáfrica en 1910, Egipto en 1922 y Etiopía en 1941) Libia se convierte así en la primera colonia africana en lograr su independencia en 1951, a la que seguirá la de Ghana en 1957. Más adelante las potencias europeas lamentarían este hecho, pues contribuyó a desencadenar las diferentes luchas por la independencia africana. el mar Rojo lo separa al este de la península arábiga y queda unido a Asia a través del istmo de Suez, en territorio egipcio. Posee una superficie total de 30 272 922 km² (621 600 km² en masa insular), que representa el 20,4 % del total de las tierras emergidas del planeta.</p></font>
+
+    <!--parrafo 3-->
+    <p>La población supera los 1.300 millones de habitantes, un 15 % del total mundial. El continente se divide en 54 estados soberanos siendo uno de ellos, Egipto, transcontinental, además de dos estados con reconocimiento limitado y dos territorios dependientes, En su mayor parte, África es una enorme y antigua plataforma continental maciza y compacta, elevada entre 600 y 800 msnm, surcada por grandes ríos (aunque pocos) y escasa en penínsulas. Destaca por su regularidad orográfica y considerable altitud media, Los suelos son excepcionalmente ricos en minerales y muy aptos para pastos. Debido al clima es allí donde evolucionó la mosca tsetsé y donde prolifera actualmente. Las principales áreas cultivadas se encuentran en las tierras altas orientales y la zona de los Grandes Lagos, algunos deltas y riberas e incluso en el Sahel.<!--5 numeros enteros y elvarlos a 3 y 2--> 10 <sup>3</sup> 20 <sup>3</sup> 4 <sup>2</sup> 30 <sup>2</sup> 8 <sup>2</sup></p>
+
+    <!--Entre el párrafo 3 y 4 deberás insertar una imagen Gif-->
+    <img src="Africa/africa-its-rucka.gif" alt="">
+
+    <!--parrafo 4-->
+    <!--deberá tener todas sus palabras en negrilla y con tamaño de 20--><font size="20"><p><b>El nombre del continente proviene del latín. Desde el siglo ii a. C., los romanos llamaban África a las tierras que los griegos conocían como Libia, al oeste del Nilo y al este de los montes Atlas. El topónimo se formó con el nombre de un pueblo local, los Afri y el sufijo -ica usado para indicar un país en función de sus habitantes (como Céltica de "los celtas").Tres franjas climáticas sucesivas se repiten al norte y al sur del ecuador, abarcando los climas mediterráneo, desértico, subtropical e intertropical lluvioso, este último, en sus dos tipos principales, tanto de sabana como de selva. África es el continente con mayor índice de insolación anual, lo cual podría haber dado origen a su nombre (África, del griego a-phrike, ‘sin frío’).</b></p></font>
+
+    <!--parrafo 5-->
+    <p>Los afri eran una tribu autóctona cuyo nombre es de origen bereber; ⵉⴼⵔⵉ ifri (plural ifran)4​ que significa «caverna», en referencia a los pueblos que los griegos llamaron Τρωγλοδύται / troglodytai, «los moradores de cavernas».5​ La misma palabra aparece en la tribu argelina de los Banu Ifran originarios de Ifrane / Yafran, El Reino del Congo fue un estado situado en lo que actualmente constituye la zona norte de Angola, el enclave de Cabinda, Congo-Brazzaville y la parte occidental de Congo-Kinsasa. Su área de influencia abarcaba también los estados vecinos.Situación Astronómica Continental: Norte: Cabo Blanco, Túnez (37°20′ Norte) Sur: Cabo de las agujas, Rep. Sudafricana (35° Sur) Este: Cabo Hafún, Somalia (51°24′ Este) Oeste: Cabo Verde, Senegal (18° Oeste)</p>
+
+    <!--parrafo 6-->
+    <p>Después de 146 a. C., África fue el nombre de una provincia romana en el noroeste del continente. La Geografía de Ptolomeo marca el límite oriental en el istmo de Suez, que la separa de Europa, el occidental en el Océano y el meridional en el Sahara, a partir de la era de los Descubrimientos y a medida que el conocimiento del continente se extendía en Europa, el nombre también lo hizo. 31​ Los riesgos del cambio climático sobre la producción agrícola, la seguridad alimentaria, los recursos hídricos y los servicios de los ecosistemas probablemente tendrán consecuencias cada vez más graves en la vida y las perspectivas de desarrollo sostenible en África.30​ La gestión de este riesgo requiere la integración de estrategias de mitigación y adaptación en la gestión de los bienes y servicios de los ecosistemas y los sistemas de producción agrícola en África.</p>
+
+    <!--parrafo 7-->
+    <p>Etimologías populares o míticas del nombre lo derivan de la palabra latina aprica, «soleado», como dice Isidoro de Sevilla,8​ o del griego: a-phrike: «sin frío», como postuló León el Africano, si bien esta combinación de palabras no existe.9​10​, Michèle Fruyt propuso derivar el nombre de africus «viento del sur»11​ asignando a la palabra un origen itálico, aunque la mayoría considera que el viento tomó su nombre por la provincia romana, y Gerald Massey, en 1881, inventó una etimología egipcia: af-rui-ka es decir, según su propuesta: «girar hacia la apertura del Ka», es decir, hacia el vientre materno, con lo cual los egipcios se referían a África como «lugar de nacimiento, El cambio climático en África es una amenaza cada vez más grave para el continente, ya que África es uno de los continentes más vulnerables al cambio climático.29​30​ El cambio climático antropogénico ya afecta significativamente a África. Según el Panel Intergubernamental sobre Cambio Climático, la vulnerabilidad de África al cambio climático está impulsada por una serie de factores que incluyen una capacidad de adaptación débil, una alta dependencia de los bienes de los ecosistemas para los medios de vida y sistemas de producción agrícola poco desarrollados.</p>
+
+    <!--parrafo 8-->
+    <p>Se cree que África es la cuna de la humanidad y que de allí proceden las sucesivas especies de homínidos y antropoides que dieron lugar a los seres humanos. La teoría explica que allí se originó el Homo sapiens hace cerca de 300 000 años para luego expandirse por el resto de los continentes. Según el historiador griego Heródoto (484 a. C.), una expedición fenicia auspiciada por el faraón Necao II (616 a. C.) circunnavegó el continente africano por primera vez. En las próximas décadas, se espera un calentamiento debido al cambio climático en casi toda la superficie de la Tierra, y la precipitación media global aumentará.32​ Se espera que los efectos regionales sobre las precipitaciones en los trópicos sean mucho más variables espacialmente y hay menos seguridad respecto del aumento o disminución de las precipitaciones, pero hay certeza de que habrá cambios.</p>
+
+    <!--parrafo 9-->
+    <p>Los orígenes del tráfico comercial entre el oeste y el centro de África y la cuenca mediterránea se pierden en la prehistoria. Los primeros relatos históricos datan de la antigüedad y versan sobre los nómadas que organizaban el comercio entre Leptis Magna y el Chad. Este comercio vivió su primer auge en el siglo i a. C. con el ascenso del Imperio romano. Sobre todo se comerciaba con oro, esclavos, marfil y animales exóticos para los juegos de circo en Roma a cambio de bienes de lujo romanos, Las temperaturas superficiales observadas han aumentado en África desde finales del siglo XIX hasta principios del siglo xxi en aproximadamente 1 °C. En ciertos lugares, la temperatura ha aumentado todavía más, por ejemplo en el Sahel la temperatura mínima ha aumentado hasta 3 °C al final de la estación seca.33​ Las tendencias de precipitación observadas indican discrepancias espaciales y temporales.34​30​ Los cambios observados en temperatura y precipitación varían regionalmente</p>
+
+    <!--parrafo 10-->
+    <p>Desde que comenzó a publicarse este índice de democracia en 2006, la situación ha mejorado muy ligeramente. Han pasado a tener la consideración de países democráticos Ghana (2010), Senegal (2012) y Túnez (2014); en cambio la han perdido Malí (2012) y Benín (2013). Temporalmente fueron considerados democráticos los regímenes de Zambia (2011-2015) y Malawi (2012-2013).Han pasado de estar calificados como regímenes autoritarios a ser considerados como híbridos Sierra Leona (2008), Marruecos (2012), Burkina Faso (2013), Nigeria (2016) y Costa de Marfil (2018). En el sentido contrario, Burundi (2012) y Mozambique (2018) han pasado a ser catalogados como regímenes autoritarios. Temporalmente fueron considerados híbridos los regímenes de Níger (2011-2015), Mauritania (2011-2014), Egipto (2011-2012) y Libia (2012-2013), regresando todos ellos a la condición de autoritarios.</p>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="braider martinez">
+
+        <meta name="keywords" content="coliseo, lisboa, roma, torre eiffel, paris, cristiano ronaldo, españa">
+
+        <meta name="description" content="esta pagina mostrara el continente europeo">
+
+        <title>Europa</title>
+    </head>
+    <body bgcolor="brow">
+        <font face="cooper black" size="30" color="yellow">
+
+            <marquee scrollamount="15" behavior="alternate" direction="left">
+                Este es Europa...
+            </marquee>
+        </font>
+
+        <center>
+            <img src="Europa/a_coliseo_gtres_a00657153_009-a.jpg" height="300" width="300">
+            <img src="Europa/caracteristicas-de-europa-600x313.jpg" height="300" width="300">
+            <img src="Europa/mapa_de_europa.jpg" height="300" width="300">
+        </center>
+
+        <!--parrafo 1-->
+        <!--primer parrafo de color Azul y tipo de letra calibri--><font color="blue" face="calibri"><p>Europa es un continente ubicado enteramente en el hemisferio norte y mayoritariamente en el hemisferio oriental. Las fronteras de <!--esta es la palabra subrayada--><u>Europa están situadas</u> en la mitad occidental del hemisferio norte, limitada por el océano Ártico en el norte, hasta el mar Mediterráneo por el sur. Por el oeste, llega hasta el océano Atlántico. Por el este, limita con Asia, de la que la separan los montes Urales, el río Ural, el mar Caspio, la cordillera del Cáucaso, el mar Negro y los estrechos del Bósforo y de los Dardanelos.2​ Europa es uno de los continentes que conforman el supercontinente euroasiático, situado entre los paralelos 35º 30’ y 70º 30’ de latitud norte. Europa es el segundo continente más pequeño en términos de superficie. Abarca 10 530 751 km² o el 2 % de la superficie del mundo y alrededor de 6,8 % del total de las tierras emergidas.</p></font>
+
+        <!--parrafo 2-->
+        <!--segundo parrafo sera color naranja y con tipo de letra Comic Sans Ms--><font color="orange" face="Comic Sans Ms"><p>Alberga un gran número de estados soberanos, algo más de 50, cuyo número exacto depende de la definición de la frontera de Europa, así como de la exclusión o inclusión de estados parcialmente reconocidos. De todos los países europeos, <!--esta es la palabra cursiva--> <i>Rusia es el mayor en superficie</i> (al mismo tiempo que es el estado soberano reconocido internacionalmente más extenso del mundo), mientras que la Ciudad del <!--esta resalta la letra de color celeste--> <mark style="background-color: cyan;">Vaticano es el más pequeño</mark> (al mismo tiempo que es el estado soberano e internacionalmente reconocido más pequeño del mundo). Europa es el cuarto continente más poblado después de Asia, África y América, con una población de 740 813 959 (año 2015) o alrededor del 10,03 % de la población mundial. Europa, en particular la Antigua Grecia, es la cuna de la cultura occidental. La caída del Imperio romano de Occidente, durante el período de la migración, marcó el fin de la Edad Antigua y el comienzo de una era conocida como la Edad Media.</p></font>
+
+        <!--parrafo 3-->
+        <p>El Renacimiento con sus consiguientes humanismo, arte y ciencia, además de la exploración llevaron al "viejo continente", y finalmente al resto del mundo, a la Edad Moderna. A partir de este período las naciones europeas desempeñan un papel preponderante en los asuntos mundiales, desde el siglo xvi en adelante especialmente, después del comienzo de la colonización. En los siglos xvii y xviii, las naciones europeas controlaron la mayor parte de África, América, y gran parte de Asia, y posteriormente también Oceanía. La Revolución Industrial, que comenzó en el Reino Unido en el siglo xviii, dio lugar a un cambio radical en los ámbitos económico, tecnológico, cultural y social en Europa Occidental, que impactó en el resto del mundo. La Primera Guerra Mundial y la Segunda Guerra Mundial condujeron a una disminución en el dominio de Europa en los asuntos mundiales cuando los Estados Unidos y la Unión Soviética tomaron la preeminencia. <!--5 numeros enteros y elvarlos a 3 y 2--> 20 <sup>3</sup> 4 <sup>3</sup> 4 <sup>2</sup> 90 <sup>2</sup> 8 <sup>2</sup></p>
+
+        <!--Entre el párrafo 3 y 4 deberás insertar una imagen Gif-->
+        <img src="Europa/tumblr_n3avne3h5t1sqy24do1_1280.gif" height="300" width="300" alt="">
+
+        <!--parrafo 4-->
+        <!--deberá tener todas sus palabras en negrilla y con tamaño de 20--><font size="20"><p><b>La Guerra Fría entre las dos superpotencias dividió Europa a lo largo del Telón de Acero. La integración europea dio lugar a la formación del Consejo de Europa y la Unión Europea en Europa occidental, las cuales se han expandido hacia el este desde la disolución de la Unión Soviética en 1991. Actualmente, naciones que ejercen poder hegemónico mundial como Estados Unidos son el resultado de la colonización europea.</b></p></font>
+
+        <!--parrafo 5-->
+        <p>El término Europa tiene diversos usos, y los principales son de carácter geográfico y político. Geográficamente, Europa es la península más occidental de Eurasia; limitada al norte, oeste y sur por el océano Atlántico, el mar Báltico, el mar del Norte, el mar Mediterráneo, el mar de Mármara, el mar Egeo, el mar Adriático, el mar Tirreno y el mar Negro y al este por los montes Urales, el río Ural, el mar Caspio y la cordillera del Cáucaso. La UE considera como tales a todos aquellos situados dentro de los límites geográficos tradicionales, incluyendo Chipre, Georgia, Armenia y Azerbaiyán.</p>
+
+        <!--parrafo 6-->
+        <p>En las obras de Homero, Εὐρώπη es solo la reina mitológica de Creta y no una denominación geográfica, sin embargo, el (así llamado) Himno Homérico a Apolo (250-251) usa el término para referirse a la parte continental de Grecia, por oposición al Peloponeso y a las islas. Hesíodo, en la conclusión de su Teogonía (verso 964) alude a "los continentes" pero sin precisar sus nombres, con todo se duda que dicho pasaje pertenezca a este autor. Más tarde, desde el año 500 a. C. su significado se refiere a toda la tierra al oeste del mar Egeo. En Heródoto Europa es el mayor de los continentes, extendiéndose al norte del Mediterráneo desde las Columnas de Hércules del estrecho de Gibraltar hasta más allá del río Indo.</p>
+
+        <!--parr<fo 7-->
+        <p>Desde la época helenística, se consideró a Europa como el territorio ubicado al norte del Mediterráneo, el Helesponto (Dardanelos), la Propóntide (mar de Mármara) y el Bósforo, siendo el río Tanais (Don) su frontera nororiental. Así, Varrón6​ considera que el mundo puede ser dividido a partir del Bósforo, las tierras situadas al norte de ese río corresponderían a Europa. A pesar de ello, el término no tuvo entonces ninguna connotación política. De hecho desde el siglo iv existió una provincia romana llamada Europa como una subdivisión menor de la provincia romana de Tracia,7​ en la cual estuvo incluida Constantinopla.</p>
+
+        <!--parrafo 8-->
+        <p>en sentido literario o meramente geográfico, correspondía a una de las tres partes del mundo, separada de África por Gibraltar, y de Asia por el Don. Flavio Josefo, cuya obra influyó en las concepciones medievales, agregaba que había sido otorgada por Noé a su hijo Jafet. Hasta finales del Medioevo se mantuvieron estas fronteras de Europa, pero a medida que se ampliaba el mundo conocido por los europeos, resultaba insuficiente. Fue el geógrafo sueco Philip Johan von Strahlenberg, quien hacia 1730 propuso fijar el límite oriental del continente en los montes Urales, propuesta acogida con agrado por la monarquía rusa. Hasta el siglo xvi el término Europa no era de uso general y se prefería referirse a ella como "la Cristiandad". Esta expresión, desde el Renacimiento y la Reforma, comenzó a ser sustituida por el nombre propio del continente, con menos connotaciones confesionales-culturales y teniendo en cuenta la invasión y ocupación turca de gran parte de los Balcanes.</p>
+
+        <!--parrafo 9-->
+        <p>Actualmente, Europa puede ser usada tanto de manera amplia, para designar a la península más occidental de Eurasia, como de un modo más restringido; los Estados miembros de la Unión Europea. También se utiliza para aludir a una serie de naciones que comparten una identidad cultural común a la cual se califica de "europea". En este sentido es como lo utiliza el Consejo de Europa de cuyos 49 países miembros solo 27 pertenecen a la Unión Europea y la pertenencia de Turquía, país que mayoritariamente se sitúa geográficamente en Asia.8​ Por otro lado, los habitantes de algunas islas europeas; especialmente Irlanda o el Reino Unido, pero también Escandinavia, se refieren a la Europa continental como "el Continente"</p>
+
+        <!--parrafo 10-->
+        <p>Tradicionalmente se asocia el origen del topónimo Europa con un personaje de la mitología griega. En efecto, Europa (en griego antiguo, Εὐρώπη, Eurṓpē) era hija de Agénor y de Telefasa, hermana de Cadmo, una princesa fenicia. Cuando estaba divirtiéndose con sus compañeras en la playa, Zeus la observó y acabó enamorándose de ella. Zeus se transformó en un toro blanco, tan manso, que Europa se acercó a él, puso flores sobre su cuello y finalmente se atrevió a montarlo; entonces, Zeus se levantó y cruzó el mar, llevándola a la isla de Creta, donde Europa dio a luz a Minos y a Sarpedón, con el cual regresó a Asia. Del nombre de esta mujer provendría el del continente.</p>
+
+    </body>
+</html>

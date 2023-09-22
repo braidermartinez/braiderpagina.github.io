@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="braider martinez">
+    
+    <meta name="keywords" content="continente mas grande, china, india, religiones, playas de tailandia">
+
+    <meta name="description" content="esta pagina mostrara el continente asiatico">
+   
+    <title>Asia</title>
+</head>
+<body bgcolor="brown">
+    <font face="cooper black" size="30" color="orange">
+
+        <marquee scrollamount="15" behavior="alternate" direction="right">
+            Este es Asia...
+        </marquee>
+    </font>
+
+    <center>
+        <img src="Asia/asia.jpg" height="300" width="300">
+        <img src="Asia/b3b0ce307b6e684a2a2af1a0f8b87dd4.jpg" height="300" width="300">
+        <img src="Asia/asia_123.png" height="300" width="300">
+    </center>
+
+    <!--parrafo 1-->
+    <!--primer parrafo de color Azul y tipo de letra calibri--><font color="blue" face="calibri"><p>Asia es el continente <!--esta es la palabra subrayada--><u>más grande y poblado de la Tierra.</u> Con 44,6 millones de km² aproximadamente,2​ representa el 8,7 % de la superficie de la tierra[cita requerida] y el 30 % de las tierras emergidas.1​ En agosto de 2023 tiene alrededor de 4757 millones de habitantes, que representan el 59 % de la población mundial.3​ Se extiende sobre la mitad oriental del hemisferio norte, desde el océano Glacial Ártico, al norte, hasta el océano Índico, al sur. Limita, al oeste con los montes Urales (Rusia), y al este con el océano Pacífico. Asia es la cuna de muchas civilizaciones antiguas como la mesopotámica, la india y la china, entre otras. En la división convencional de continentes, de origen europeo, Asia y Europa aparecen como dos entidades diferentes por razones culturales e históricas. En términos geográficos, forman en realidad un único continente, llamado Eurasia. Además, África está unida a Eurasia por el istmo de Suez por lo que también se puede considerar toda la extensión conjunta de Europa, Asia y África como un único supercontinente, ocasionalmente denominado Eurafrasia, o Afro-Eurasia.</p></font>
+
+    <!--parrafo 2-->
+    <!--segundo parrafo sera color naranja y con tipo de letra Comic Sans Ms--><font color="orange" face="Comic Sans Ms"><p>El antónimo «Asia», como topónimo, corresponde a la civilización griega, para la cual Asia eran las tierras al este del mar Egeo, sometidas al Imperio persa, sin otro límite que la India y <!--esta es la palabra cursiva--> <i>el mar Eritreo</i> (mar Rojo y océano Índico). El nombre se origina en 𐀀𐀯𐀹𐀊, (a-si-wi-ja) Aswia, atestiguado como <!--esta resalta la letra de color celeste--> <mark style="background-color: cyan;">gentilicio</mark> en griego micénico,6​ una entidad política de Anatolia conocida en los documentos hititas como 𒀸𒋗𒉿 Assuwa, derrotada en el siglo XV a. C., pero cuyo nombre subsistió para la región más occidental de Anatolia (por ejemplo Assos). Se ha sugerido que Assuwa contiene la raíz egea asis «barroso»8​ o bien sea un derivado del acadio 𒀀𒍮 aṣû, «salir fuera», bien en el sentido de rebelarse,9​ dado que se la menciona como una alianza «contra» el Imperio hitita, o bien en el sentido de «amanecer», si bien este último es problemático al encontrarse al oeste respecto de Hattusas. El mismo vocablo acadio Asu, por otra parte, podría ser el origen del nombre, sin hacer referencia a Assuwa con el sentido de Oriente, así como Europa significaría Occidente.10​Se necesita mejor fuente. La mitología griega consideraba que el nombre derivaba de Asia, oceánida y esposa de Prometeo.</p></font>
+
+    <!--parrafo 3-->
+    <p>El concepto europeo de tres continentes (Asia, Europa y África) se remonta a la Antigüedad clásica, y se difundió durante la Edad Media debido a los estudios del erudito del siglo VII Isidoro de Sevilla (véase Mapa de T en O). La delimitación entre Asia y África (en el suroeste) forma el istmo de Suez y el mar Rojo. Los límites entre Asia y Europa, convencionalmente, se considera que discurren entre los Dardanelos, el mar de Mármara, el Bósforo, el mar Negro, el Cáucaso, el mar Caspio, el río Ural y los montes Urales hasta el mar de Kara (Rusia).En el Lejano Oriente de Asia, Siberia está separada de Norteamérica por el estrecho de Bering. Asia está rodeada por el sur por el océano Índico (específicamente, de oeste a este, el golfo de Adén, el mar Arábigo y la bahía de Bengala), al este por las aguas del océano Pacífico (incluyendo, en contra las manecillas del reloj, el mar de China, el mar de China Oriental, el mar Amarillo, el mar de Japón, el mar de Ojotsk y el mar de Bering) y por el norte por el océano Ártico. Australia (u Oceanía) permanece en el sudeste, el límite geológico y ecológico entre Asia y Oceanía en el sector que separa a la Austronesia de la Australasia es la Línea de Wallace aunque histórica y culturalmente el límite con Oceanía está dado más frecuentemente por la Línea de Weber (tras ser una colonia neerlandesa, a mediados del recién pasado s XX el Estado de núcleo asiático llamado Indonesia heredó territorios de Oceanía como las islas Aru y el oeste de la isla de Nueva Guinea por lo que actualmente los neófitos suelen confundirse con los límites del Sudeste Asiático y la Oceanía).  <!--5 numeros enteros y elvarlos a 3 y 2--> 20 <sup>3</sup> 4 <sup>3</sup> 4 <sup>2</sup> 90 <sup>2</sup> 8 <sup>2</sup></p>
+
+    <!--Entre el párrafo 3 y 4 deberás insertar una imagen Gif-->
+    <img src="Asia/COVID-19_coronavirus_pandemic_in_Asia.gif" alt="">
+
+    <!--parrafo 4-->
+    <!--deberá tener todas sus palabras en negrilla y con tamaño de 20--><font size="20"><p><b>Algunos geógrafos no consideran que Asia y Europa sean continentes separados,13​ ya que no existe una separación física lógica entre ambas.14​ Por ejemplo, Barry Cunliffe, el profesor emérito de arqueología europea de Oxford, sostiene que Europa ha sido geográficamente y culturalmente la "excrecencia occidental del continente asiático".Geográficamente, Asia es la mayor parte oriental del continente denominado Eurasia con Europa constituyendo una península noroccidental de la masa continental denominada Eurafrasia: geológicamente, Asia, Europa y África constituyen un territorio único y continuo (salvo el artificial canal de Suez) y comparten una plataforma continental común. La mayor parte de Europa y Asia se asientan en la placa tectónica euroasiática, que bordea a la placa arábiga y la placa India por el sur; la parte más nororiental de Siberia (al este de los Montes Cherski) forma parte de la placa Norteamericana.</b></p></font>
+
+    <!--parrafo 5-->
+    <p>En geografía, existen dos escuelas de pensamiento principales. Una escuela obedece a las convenciones históricas y trata Europa y Asia como continentes diferentes, categorizando subregiones dentro de ellos para un análisis más detallado. La otra escuela compara la palabra "continente" con una región geográfica cuando se refiere a Europa, y utiliza el término "región" para describir a Asia en términos de la fisiografía. Dado que, en términos lingüísticos, "continente" implica una masa distinta, cada vez es más común sustituir el término "región" por el de "continente" para evitar el problema de la desambiguación. Dado el alcance y diversidad de la masa de tierra, a veces no está siquiera claro en qué consiste "Asia" exactamente. Algunas definiciones excluyen Turquía, Oriente Medio, Asia Central y Rusia, y solo consideran que componen Asia el Lejano Oriente, el Sureste Asiático y el subcontinente indio,16​17​ especialmente en Estados Unidos después de la II Guerra Mundial.</p>
+
+    <!--parrafo 6-->
+    <p>El término a veces se reduce de forma más estrecha para referirse a la región Asia-Pacífico, que no incluye Oriente Medio, el Sureste Asiático ni Rusia,19​ pero sí incluye las islas del océano Pacífico y puede incluir partes de Australasia u Oceanía, a pesar de que los isleños del Pacífico no son considerados asiáticos. El relieve de Asia está constituido por una dilatada meseta, en cuyos bordes se levanten fuertes cordilleras y a cuyo pie septentrional se extienden las llanuras que alcanzan el océano Ártico, en tanto que la vertiente sur se disponen, como en Europa, tres dilatadas penínsulas.</p>
+
+    <!--parrafo 7-->
+    <p>En el núcleo central de todo el sistema orográfico es la meseta de Pamir o apodada junto a la del Tíbet como «El Techo del Mundo» (3600 m s. n. m. de altura media), de la que en direcciones a amplias cordilleras. Al sureste del «nudo orográfico» del Pamir se extiende otra meseta excelsa, que es la del Tíbet (la meseta más extensa y elevada actual del planeta Tierra), de mayor extensión y altura (5000 m) que el propio Pamir. Entre las cadenas del sudoeste del Pamir y del Tíbet destacan las siguientes: del este de la meseta nace la cadena de los Kuen-Lun que, con los Tian Shan, encierra la depresión del Tarim; más al sur, las formaciones de Hedin (7000 m) y del Karakorum (8611 m); en los bordes del suroeste y sur del Tíbet se levantan las alturas más importantes de la Tierra en el Himalaya (Everest, 8848 m; Kanchenjunga, 8585 m). La zona montañosa central es, pues, una extensa región de mesetas de gran altura en cuyos bordes se eleva la crestería montañosa. De este modo las mesetas quedan confinadas, a manera de depresiones, en el cerco de sus montañas limitantes, por lo que son desérticas o subdesérticas (faja de desiertos: desierto de Arabia, desierto de Persia, Turquestán o Turán, desierto de Gobi, etc).</p>
+
+    <!--parrafo 8-->
+    <p>Por la vertiente septentrional corren hacia el océano Glacial, entre otros, los ríos Obi (4100 km) Yenisei (4750 km) y Lena (4270 km). Es muy interesante el régimen peculiar de estos ríos siberianos: como sus fuentes están a millares de kilómetros, más al sur que su desembocadura, al sobrevenir a flujos de agua en el curso alto, todavía permanece helado el tramo inferior, lo que es causa de grandes inundaciones. En el Pacífico desemboca el Amur (en el golfo de Ojotsk), procedentes de los Kuen-lun, vierten sus aguas en el golfo de Pechili y en el mar de la China Oriental, respectivamente; el Sikiang y el Song-ka, que desaguan por Cantón y Hanoi. De la vertiente meridional del Himalaya descienden hasta el golfo de Bengala y el mar Arábigo, dependencias del océano Índico, el Ganges y el Indo: ambos de una longitud aproximada de unos 3000 km que construyen amplios deltas.</p>
+
+    <!--parrafo 9-->
+    <p>En Asia occidental, los ríos más notables son el Éufrates (2700 km) y el Tigris (2 000 km) que tienen su arranque en la meseta de Armenia,21​ y fundidos en un solo río al final de su curso, desaguan en el golfo Pérsico, al que poco a poco van colmando con sus aluviones. En las estepas centrales son numerosas las cuencas interiores, cerradas, que desembocan en lagos. Así por ejemplo ocurre con los ríos Sir Daria y Amu Daria, que vierten en el mar de Aral, que, a pesar de su nombre, es un lago.</p>
+
+    <!--parrafo 10-->
+    <p>Las circunstancias históricas y humanas han marcado la verdadera división entre el Asia Occidental desde la India hacia el oeste y el Asia Oriental conocida como el Lejano Oriente, desde la India hacia el este. Geográficamente, gran parte de Rusia pertenece al norte de Asia (el resto está en Europa).22​ La mayor parte de Turquía está en Asia (el resto en Europa). Una pequeña parte de Egipto, la península del Sinaí, pertenece a Asia Occidental (la mayor parte está en África).</p>
+    
+</body>
+</html>
